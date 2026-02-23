@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiawei Jiang (姜镓伟)"
-description              : "Academic homepage of Jiawei Jiang. Research interests: Remote Sensing, Change Detection, Smart Forestry, Hydrology."
+description              : "Eng.D. Student, Sun Yat-sen University"
 repository               : "NightSongs/nightsongs.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # Optional: https://ziyuan.baidu.com/login/index?u=/
 
 # Site Author
 author:
-  name             : "Jiawei Jiang"
+  name             : "Jiawei Jiang (姜镓伟)"
   avatar           : "images/c.jpg"
-  bio              : "Eng.D. Candidate · Remote Sensing · Change Detection · Smart Forestry · Hydrology"
-  location         : "Guangdong, China"
+  bio              : "Sun Yat-sen University"
+  location         : "Zhuhai, China"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com.hk/citations?user=Vca9f3YAAAAJ&hl"
