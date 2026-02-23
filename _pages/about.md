@@ -17,42 +17,132 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am **Jiawei Jiang (姜镓伟)**, currently an **Eng.D. candidate** at the [College of Civil Engineering, Sun Yat-sen University](https://civil.sysu.edu.cn/) (since 2023.09), supervised by Prof. [Yujiu Xiong](https://civil.sysu.edu.cn/teacher/480).  
+My research focuses on **Remote Sensing Image Interpretation**, especially **Change Detection**, and also includes **Smart Forestry** and **Hydrology** related topics (e.g., ET and ISA mapping).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+- **Email**: jiangjw26@mail2.sysu.edu.cn / jiaweijiang@csuft.edu.cn  
+- **Location**: Guangdong, China  
+- **Google Scholar**: <a href="https://scholar.google.com.hk/citations?user=Vca9f3YAAAAJ&hl" target="_blank">Profile</a>
+  &nbsp;(<a href='https://scholar.google.com.hk/citations?user=Vca9f3YAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)  
+- **GitHub**: <a href="https://github.com/NightSongs" target="_blank">NightSongs</a>  
+- **ResearchGate**: <a href="https://www.researchgate.net/profile/Jiawei-Jiang-13" target="_blank">Profile</a>  
+- **ORCID**: <a href="https://orcid.org/0000-0002-8454-5440" target="_blank">0000-0002-8454-5440</a>  
 
+---
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🔬 Research Topics
+- **Remote Sensing Image Interpretation**: Change Detection, Semantic Segmentation, etc.
+- **Smart Forestry**: Forest Mapping, Urban Space Green(UGS) Extraction, etc.
+- **Hydrology**: Evapotranspiration(ET), Impervious Surface Area(ISA) Mapping, etc.
 
-# 📝 Publications 
+---
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 📖 Experiences
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+## 🎓 Education Experiences
+- **2023.09–Now** &nbsp;&nbsp; Eng.D. at [College of Civil Engineering, Sun Yat-sen University](https://civil.sysu.edu.cn/), supervised by Prof. [Yujiu Xiong](https://civil.sysu.edu.cn/teacher/480)
+- **2020.09–2023.06** &nbsp;&nbsp; M.S. at [College of Forestry, Central South University of Forestry and Technology](https://zhxy.csuft.edu.cn/), supervised by Prof. [Dengkui Mo](https://zhxy.csuft.edu.cn/szdw/zzjs/slpy1/202111/t20211101_121277.html)
+- **2016.09–2020.06** &nbsp;&nbsp; B.S. at [College of Forestry, Central South University of Forestry and Technology](https://zhxy.csuft.edu.cn/)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+---
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+# 📝 Publications
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+> **\*** indicates *student first author*.
+
+## Journals
+
+- Yuanjun Xing, **Jiawei Jiang\***, Jun Xiang, Enping Yan, Yabin Song, Dengkui Mo.  
+  **“LightCDNet: Lightweight Change Detection Network Based on VHR Images,”**  
+  *IEEE Geoscience and Remote Sensing Letters (GRSL)*, 2023. (**SCI Q1, IF=5.343**)  
+  [[Paper](https://ieeexplore.ieee.org/document/10214556)] [[Code](https://github.com/NightSongs/LightCDNet)]
+
+- **Jiawei Jiang\***, Yuanjun Xing, Wei Wei, Enping Yan, Jun Xiang, Dengkui Mo.  
+  **“DSNUNet: An Improved Forest Change Detection Network by Combining Sentinel-1 and Sentinel-2 Images,”**  
+  *Remote Sensing (RS)*, 2022. (**SCI Q1, IF=5.0**)  
+  [[Paper](https://www.mdpi.com/2072-4292/14/19/5046)] [[Code](https://github.com/NightSongs/DSNUNet)]
+
+- **Jiawei Jiang\***, Jun Xiang, Enping Yan, Yabin Song, Dengkui Mo.  
+  **“Forest-CD: Forest Change Detection Network Based on VHR Images,”**  
+  *IEEE Geoscience and Remote Sensing Letters (GRSL)*, 2022. (**SCI Q1, IF=5.343**)  
+  [[Paper](https://ieeexplore.ieee.org/document/9815291)] [[Code](https://github.com/NightSongs/Forest-CD)]
+
+- Wenjie Yan, **Jiawei Jiang**, Lanwu He, Wenli Zhao, Richard Nair, Xu Wang, Yujiu Xiong.  
+  **“Correcting land surface temperature from thermal imager by considering heterogeneous emissivity,”**  
+  *International Journal of Applied Earth Observation and Geoinformation (JAG)*, 2024. (**SCI Q1, IF=7.5**)  
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S156984322400178X?via%3Dihub)]
+
+- Shuyi Cao, Yubin Tang, Enping Yan, **Jiawei Jiang**, Dengkui Mo.  
+  **“Bridging Domains and Resolutions: Deep Learning-Based Land Cover Mapping without Matched Labels,”**  
+  *Remote Sensing (RS)*, 2024. (**SCI Q1, IF=5.0**)  
+  [[Paper](https://www.mdpi.com/2072-4292/16/8/1449)]
+
+- Haoran Li, Enping Yan, **Jiawei Jiang**, Dengkui Mo.  
+  **“Monitoring of key Camellia Oleifera phenology features using field cameras and deep learning,”**  
+  *Computers and Electronics in Agriculture (CEA)*, 2024. (**SCI Q1, IF=8.3**)  
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S016816992400139X)]
+
+- Yabin Song, Jun Xiang, **Jiawei Jiang**, Enping Yan, Wei Wei, Dengkui Mo.  
+  **“A Cross-Domain Change Detection Network Based on Instance Normalization,”**  
+  *Remote Sensing (RS)*, 2023. (**SCI Q1, IF=5.0**)  
+  [[Paper](https://www.mdpi.com/2072-4292/15/24/5785)] [[Code](https://github.com/XJCXJ/CrossCDNet)]
+
+- Lei Deng, Enping Yan, **Jiawei Jiang**, Dengkui Mo.  
+  **“Estimating Fine Fuel Load Using Sentinel-2A Imagery and Machine Learning: A Case Study in the Mountainous Forests of Changsha, China,”**  
+  *Remote Sensing (RS)*, 2023. (**SCI Q1, IF=5.0**)  
+  [[Paper](https://www.mdpi.com/2072-4292/15/24/5721)]
+
+- Yajing Li, Enping Yan, **Jiawei Jiang**, Dan Cao, Dengkui Mo.  
+  **“Investigating the Identification and Spatial Distribution Characteristics of Camellia oleifera Plantations Using High-Resolution Imagery,”**  
+  *Remote Sensing (RS)*, 2023. (**SCI Q1, IF=5.0**)  
+  [[Paper](https://www.mdpi.com/2072-4292/15/21/5218)]
+
+- Yiqiao Chen, Enping Yan, **Jiawei Jiang**, Guozhen Zhang, Dengkui Mo.  
+  **“An efficient approach to monitoring pine wilt disease severity based on random sampling plots and UAV imagery,”**  
+  *Ecological Indicators (EI)*, 2023. (**SCI Q1, IF=6.9**)  
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S1470160X23013572?via%3Dihub)]
+
+- Jun Xiang, Yuanjun Xing, Wei Wei, Enping Yan, **Jiawei Jiang**, Dengkui Mo.  
+  **“Dynamic Detection of Forest Change in Hunan Province Based on Sentinel-2 Images and Deep Learning,”**  
+  *Remote Sensing (RS)*, 2023. (**SCI Q1, IF=5.0**)  
+  [[Paper](https://www.mdpi.com/2072-4292/15/3/628)]
+
+- Minghui Li, Enping Yan, Hui Zhou, Jiaxing Zhu, **Jiawei Jiang**, Dengkui Mo.  
+  **“A novel method for cliff vegetation estimation based on the unmanned aerial vehicle 3D modeling,”**  
+  *Frontiers in Plant Science (FPS)*, 2022. (**SCI Q1, IF=5.6**)  
+  [[Paper](https://www.frontiersin.org/articles/10.3389/fpls.2022.1006795/full)]
+
+## Conferences
+
+- Shihong Wang, Ruixun Liu, Kaiyu Li, **Jiawei Jiang**, Xiangyong Cao.  
+  **“Class Similarity Transition: Decoupling Class Similarities and Imbalance from Generalized Few-shot Segmentation,”**  
+  *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2024.  
+  (**EI, Oral**)  
+  [[Paper](https://ieeexplore.ieee.org/document/10677851)] [[Code](https://github.com/earth-insights/ClassTrans)]
+
+---
+
+# 🧑‍⚖️ Services
+
+## Reviewer
+- *Remote Sensing (RS)*
+- *IEEE Geoscience and Remote Sensing Letters (GRSL)*
+
+---
+
+# 🏆 Selected Competitions
+- 2024, ISPRS TC I Contest (Change Detection) **TOP3**. (**Team leader**)  
+  ([URL](https://www.gaofen-challenge.com/challenge) | [Code](https://github.com/NightSongs/ISPRS2024_ChangeDetection_TOP3))
+- 2024, CVPR 2024 OpenEarthMap Land Cover Mapping Few-Shot Challenge **TOP2**.  
+  (**Collaboration with [Kaiyu Li](https://likyoo.github.io/)**)  
+  ([URL](https://cliffbb.github.io/OEM-Fewshot-Challenge/) | [Code](https://github.com/earth-insights/ClassTrans))
+- 2023, “国丰东方慧眼杯” 遥感影像智能处理算法大赛-变化检测赛道 优胜奖. (**Team leader**)
+- 2023, “泰坦杯”全国大学生空间信息应用大赛-人工智能提取林地变化 二等奖(精度、效率分排名第一). (**Team leader**)
+- 2022, “航天宏图杯”遥感影像智能处理算法大赛-变化检测赛道 优胜奖. (**Team leader**)
+
+---
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- 2023, Outstanding Graduate Student, Central South University of Forestry and Technology | 中南林业科技大学优秀毕业研究生
+- 2023, Tao Zhu Scholarship, Central South University of Forestry and Technology | 中南林业科技大学陶铸奖学金
+- 2022, First Prize of Academic Scholarship, Central South University of Forestry and Technology | 中南林业科技大学学业奖学金一等奖
