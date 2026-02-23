@@ -17,9 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am **Jiawei Jiang (姜镓伟)**, currently an **Eng.D. candidate** at the [College of Civil Engineering, Sun Yat-sen University](https://civil.sysu.edu.cn/) (since 2023.09), supervised by Prof. [Yujiu Xiong](https://civil.sysu.edu.cn/teacher/480).  
-My research focuses on **Remote Sensing Image Interpretation**, especially **Change Detection**, and also includes **Smart Forestry** and **Hydrology** related topics (e.g., ET and ISA mapping).
-
 - **Email**: jiangjw26@mail2.sysu.edu.cn / jiaweijiang@csuft.edu.cn  
 - **Location**: Guangdong, China  
 - **Google Scholar**: <a href="https://scholar.google.com.hk/citations?user=Vca9f3YAAAAJ&hl" target="_blank">Profile</a>
