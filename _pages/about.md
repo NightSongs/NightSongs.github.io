@@ -30,7 +30,7 @@ redirect_from:
 # 🔬 Research Topics
 - **Remote Sensing Image Interpretation**: Change Detection, Semantic Segmentation, etc.
 - **Smart Forestry**: Forest Mapping, Urban Space Green(UGS) Extraction, etc.
-- **Hydrology**: Evapotranspiration(ET), Impervious Surface Area(ISA) Mapping, etc.
+- **Hydrology**: Evapotranspiration, Urban Heat Island, etc.
 
 ---
 
@@ -63,6 +63,21 @@ redirect_from:
   **“Forest-CD: Forest Change Detection Network Based on VHR Images,”**  
   *IEEE Geoscience and Remote Sensing Letters (GRSL)*, 2022. (**SCI Q1, IF=5.343**)  
   [[Paper](https://ieeexplore.ieee.org/document/9815291)] [[Code](https://github.com/NightSongs/Forest-CD)]
+
+- Jun Xiang, Xiuhao Liang, **Jiawei Jiang**, Dongxia Zou, Wei Wei, Dengkui Mo, Xiaoming Qiu, Chen Liang, Kai Lu.  
+  **“GIBN-Net for automated windthrown tree detection in eucalyptus plantations using UAV imagery,”**  
+  *International Journal of Applied Earth Observation and Geoinformation (JAG)*, 2026. (**SCI Q1, IF=8.6**)  
+  [[Paper](10.1016/j.jag.2026.105121)]
+
+- Changlong Lei, Enping Yan, Kaiqi Li, Dengkui Mo, **Jiawei Jiang**.  
+  **“TinyForestCD: A Lightweight Approach for Enhanced Detection of Forest Changes in Sentinel-2 Imagery,”**  
+  *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2026. (**SCI Q1, IF=8.6**)  
+  [[Paper](10.1109/TGRS.2025.3647674)]
+
+- Kaiqi Li, **Jiawei Jiang**, Enping Yan, Dengkui Mo.  
+  **“A Method to Reduce the Misclassification of Forest Change Detection Based on High-Resolution Images,”**  
+  *IEEE Geoscience and Remote Sensing Letters (GRSL)*, 2025. (**SCI Q1, IF=4.4**)  
+  [[Paper](10.1109/LGRS.2025.3568878)]
 
 - Wenjie Yan, **Jiawei Jiang**, Lanwu He, Wenli Zhao, Richard Nair, Xu Wang, Yujiu Xiong.  
   **“Correcting land surface temperature from thermal imager by considering heterogeneous emissivity,”**  
@@ -111,6 +126,12 @@ redirect_from:
 
 ## Conferences
 
+- Kaiyu Li, **Jiawei Jiang**, Chengxi Han, Yupeng Deng, Keyan Chen, Zhuo Zheng, Hao Chen, Ziyuan Liu, Yuantao Gu, Zhengxia Zou, Zhenwei Shi, Sheng Fang, Deyu Meng, Zhi Wang, Xiangyong Cao.  
+  **“Open-CD: A Comprehensive Toolbox for Change Detection,”**  
+  *Proceedings of the 33rd ACM International Conference on Multimedia (ACM MM 25)*, 2025.  
+  (**EI**)  
+  [[Paper](https://arxiv.org/abs/2407.15317)] [[Code](https://github.com/likyoo/open-cd)]
+
 - Shihong Wang, Ruixun Liu, Kaiyu Li, **Jiawei Jiang**, Xiangyong Cao.  
   **“Class Similarity Transition: Decoupling Class Similarities and Imbalance from Generalized Few-shot Segmentation,”**  
   *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, 2024.  
@@ -128,6 +149,7 @@ redirect_from:
 ---
 
 # 🏆 Selected Competitions
+- 2025, 第二届“吉林一号”杯卫星遥感应用青年创新创业大赛 三等奖. (**Team leader**)
 - 2024, ISPRS TC I Contest (Change Detection) **TOP3**. (**Team leader**)  
   ([URL](https://www.gaofen-challenge.com/challenge) | [Code](https://github.com/NightSongs/ISPRS2024_ChangeDetection_TOP3))
 - 2024, CVPR 2024 OpenEarthMap Land Cover Mapping Few-Shot Challenge **TOP2**.  
