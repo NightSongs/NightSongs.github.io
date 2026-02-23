@@ -145,6 +145,8 @@ redirect_from:
 ## Reviewer
 - *Remote Sensing (RS)*
 - *IEEE Geoscience and Remote Sensing Letters (GRSL)*
+- *Computers and electronics in agriculture (CEA)*
+- *Smart agricultural technology (SAT)*
 
 ---
 
