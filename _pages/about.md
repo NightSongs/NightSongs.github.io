@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 - **Email**: jiangjw26@mail2.sysu.edu.cn / jiaweijiang@csuft.edu.cn  
-- **Location**: Guangdong, China  
+- **Location**: Zhuhai, China  
 - **Google Scholar**: <a href="https://scholar.google.com.hk/citations?user=Vca9f3YAAAAJ&hl" target="_blank">Profile</a>
   &nbsp;(<a href='https://scholar.google.com.hk/citations?user=Vca9f3YAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>)  
 - **GitHub**: <a href="https://github.com/NightSongs" target="_blank">NightSongs</a>  
@@ -29,7 +29,7 @@ redirect_from:
 
 # 🔬 Research Topics
 - **Remote Sensing Image Interpretation**: Change Detection, Semantic Segmentation, etc.
-- **Smart Forestry**: Forest Mapping, Urban Space Green(UGS) Extraction, etc.
+- **Smart Forestry**: Forest Mapping, Urban Green Space(UGS) Mapping, etc.
 - **Hydrology**: Evapotranspiration, Urban Heat Island, etc.
 
 ---
