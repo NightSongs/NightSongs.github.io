@@ -67,17 +67,17 @@ redirect_from:
 - Jun Xiang, Xiuhao Liang, **Jiawei Jiang**, Dongxia Zou, Wei Wei, Dengkui Mo, Xiaoming Qiu, Chen Liang, Kai Lu.  
   **“GIBN-Net for automated windthrown tree detection in eucalyptus plantations using UAV imagery,”**  
   *International Journal of Applied Earth Observation and Geoinformation (JAG)*, 2026. (**SCI Q1, IF=8.6**)  
-  [[Paper](10.1016/j.jag.2026.105121)]
+  [[Paper](https://doi.org/10.1016/j.jag.2026.105121)]
 
 - Changlong Lei, Enping Yan, Kaiqi Li, Dengkui Mo, **Jiawei Jiang**.  
   **“TinyForestCD: A Lightweight Approach for Enhanced Detection of Forest Changes in Sentinel-2 Imagery,”**  
   *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2026. (**SCI Q1, IF=8.6**)  
-  [[Paper](10.1109/TGRS.2025.3647674)]
+  [[Paper](https://10.1109/TGRS.2025.3647674)]
 
 - Kaiqi Li, **Jiawei Jiang**, Enping Yan, Dengkui Mo.  
   **“A Method to Reduce the Misclassification of Forest Change Detection Based on High-Resolution Images,”**  
   *IEEE Geoscience and Remote Sensing Letters (GRSL)*, 2025. (**SCI Q1, IF=4.4**)  
-  [[Paper](10.1109/LGRS.2025.3568878)]
+  [[Paper](https://10.1109/LGRS.2025.3568878)]
 
 - Wenjie Yan, **Jiawei Jiang**, Lanwu He, Wenli Zhao, Richard Nair, Xu Wang, Yujiu Xiong.  
   **“Correcting land surface temperature from thermal imager by considering heterogeneous emissivity,”**  
