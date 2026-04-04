@@ -64,6 +64,11 @@ redirect_from:
   *IEEE Geoscience and Remote Sensing Letters (GRSL)*, 2022. (**SCI Q1, IF=5.343**)  
   [[Paper](https://ieeexplore.ieee.org/document/9815291)] [[Code](https://github.com/NightSongs/Forest-CD)]
 
+- Yubin Tang, Enping Yan, Yujiu Xiong, **Jiawei Jiang**, Hua Sun, Dengkui Mo.  
+  **“High-Resolution Optical Satellite Image Guided DEM Super-Resolution via Topographic-Aware Transformer,”**  
+  *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2026. (**SCI Q1, IF=8.6**)  
+  [[Paper](https://10.1109/TGRS.2026.3677203)]
+
 - Jun Xiang, Xiuhao Liang, **Jiawei Jiang**, Dongxia Zou, Wei Wei, Dengkui Mo, Xiaoming Qiu, Chen Liang, Kai Lu.  
   **“GIBN-Net for automated windthrown tree detection in eucalyptus plantations using UAV imagery,”**  
   *International Journal of Applied Earth Observation and Geoinformation (JAG)*, 2026. (**SCI Q1, IF=8.6**)  
