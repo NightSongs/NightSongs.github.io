@@ -67,7 +67,7 @@ redirect_from:
 - Yubin Tang, Enping Yan, Yujiu Xiong, **Jiawei Jiang**, Hua Sun, Dengkui Mo.  
   **“High-Resolution Optical Satellite Image Guided DEM Super-Resolution via Topographic-Aware Transformer,”**  
   *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2026. (**SCI Q1, IF=8.6**)  
-  [[Paper](https://10.1109/TGRS.2026.3677203)]
+  [[Paper](https://ieeexplore.ieee.org/document/11455240)]
 
 - Jun Xiang, Xiuhao Liang, **Jiawei Jiang**, Dongxia Zou, Wei Wei, Dengkui Mo, Xiaoming Qiu, Chen Liang, Kai Lu.  
   **“GIBN-Net for automated windthrown tree detection in eucalyptus plantations using UAV imagery,”**  
@@ -77,12 +77,12 @@ redirect_from:
 - Changlong Lei, Enping Yan, Kaiqi Li, Dengkui Mo, **Jiawei Jiang**.  
   **“TinyForestCD: A Lightweight Approach for Enhanced Detection of Forest Changes in Sentinel-2 Imagery,”**  
   *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*, 2026. (**SCI Q1, IF=8.6**)  
-  [[Paper](https://10.1109/TGRS.2025.3647674)]
+  [[Paper](https://ieeexplore.ieee.org/document/11313540)]
 
 - Kaiqi Li, **Jiawei Jiang**, Enping Yan, Dengkui Mo.  
   **“A Method to Reduce the Misclassification of Forest Change Detection Based on High-Resolution Images,”**  
   *IEEE Geoscience and Remote Sensing Letters (GRSL)*, 2025. (**SCI Q1, IF=4.4**)  
-  [[Paper](https://10.1109/LGRS.2025.3568878)]
+  [[Paper](https://ieeexplore.ieee.org/document/11000278)]
 
 - Wenjie Yan, **Jiawei Jiang**, Lanwu He, Wenli Zhao, Richard Nair, Xu Wang, Yujiu Xiong.  
   **“Correcting land surface temperature from thermal imager by considering heterogeneous emissivity,”**  
